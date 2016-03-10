@@ -1,0 +1,59 @@
+img{
+  margin-top: auto;
+  font-size: 100px;
+}
+
+.glava {
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+button1{
+    background:#7f8e8e;
+    border: 3px solid #7f8e8e;
+}
+.iskalnik {
+    height:50px;
+    width:630px;
+    text-align: center;
+    object-position: center;
+    
+}
+button {
+    height: 30px;
+    width: 150px;
+    background: #859191;
+}
+.logo{
+    object-position: fixed;
+    text-align: center;
+    padding-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.telo{
+    margin: auto;
+    padding: 150px;
+    text-align: center;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 30px;
+    background-color: #859191;
+    width: 100%;
+    display: inline-block;
+}
+.meni1{
+    width: 100%;
+    float:left;
+    font-family: Calibri;
+    
+}
+.meni2{
+    float:right;
+    font-family: Calibri;
+}
